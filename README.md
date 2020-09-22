@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-![MongoDB](https://img.shields.io/badge/-MongoDB-#0C1324?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0C1324?style=flat-square&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0C1324?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-0C1324?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
