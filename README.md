@@ -1,4 +1,4 @@
-# Hi there 👋 [![Visits Badge](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)
+# Hi there 👋 ![Visits Badge](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)]
 
 ### 🤵 About Me:
 - 🏦 I'm currently a Computer Science student in college. 
@@ -9,14 +9,14 @@
 
 ### 📄 My GitHub Stats:
 ![ClassifiedDev's GitGub Stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=22c9e3&bg_color=0c1324)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=22c9e3&bg_color=0c1324)
 
 ### 📡 Technology Stack
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-0C1324?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-0C1324?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-0C1324?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-0C1324?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+![MySQL](https://img.shields.io/badge/-MySQL-0C1324?style=flat-square&logo=MySQL&logoColor=ffffff)]
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0C1324?style=flat-square&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0C1324?style=flat-square&logo=google-cloud)
 ![OVH](https://img.shields.io/badge/-OVH-0C1324?style=flat-square&logo=ovh)
