@@ -1,8 +1,9 @@
-<div align="center">
-  <a href="https://www.classifieddeveloping.com">
-    <img src="https://i.imgur.com/DcnDqyQ.png">
-  </a>
-</div>
+### Hi there 👋
+[![Visits Badge](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)
+
+### ⚡ My Github Stats:
+![ClassifiedDev's github stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=daf7dc&bg_color=0c1324)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
