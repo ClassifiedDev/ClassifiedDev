@@ -7,22 +7,22 @@
 - 📫 How to reach me: Message me on Discord. [Classified#0001]
 - 💬 Talk to me about computers, gaming, and space.
 
-### 📄 My Github Stats:
-![ClassifiedDev's github stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=22c9e3&bg_color=0c1324)](https://github.com/anuraghazra/github-readme-stats)
+### 📄 My GitHub Stats:
+[![ClassifiedDev's GitGub Stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=22c9e3&bg_color=0c1324)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📡 Technology Stack
-![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-0C1324?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-0C1324?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-0C1324?style=flat-square&logo=css3)
+[![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=white)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-0C1324?style=flat-square&logo=Node.js)
+[![HTML5](https://img.shields.io/badge/-HTML5-0C1324?style=flat-square&logo=html5&logoColor=white)
+[![CSS3](https://img.shields.io/badge/-CSS3-0C1324?style=flat-square&logo=css3)
 [![MySQL](https://img.shields.io/badge/-MySQL-0C1324?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0C1324?style=flat-square&logo=mongodb)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0C1324?style=flat-square&logo=google-cloud)
-![OVH](https://img.shields.io/badge/-OVH-0C1324?style=flat-square&logo=ovh)
-![Git](https://img.shields.io/badge/-Git-0C1324?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github)
-![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=maven)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-0C1324?style=flat-square&logo=mongodb)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0C1324?style=flat-square&logo=google-cloud)
+[![OVH](https://img.shields.io/badge/-OVH-0C1324?style=flat-square&logo=ovh)
+[![Git](https://img.shields.io/badge/-Git-0C1324?style=flat-square&logo=git)
+[![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github)
+[![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=maven)
 
 ## 💻 Operating System & Tools
 [![Windows](https://img.shields.io/badge/Windows-10-4197d1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)
