@@ -9,7 +9,7 @@
 
 ### 📄 My GitHub Stats:
 ![ClassifiedDev's GitGub Stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=f75cff&bg_color=0c1324)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&title_color=22c9e3&text_color=f75cff&bg_color=0c1324)
 
 ### 📡 Technology Stack
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=white)
