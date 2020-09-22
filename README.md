@@ -3,7 +3,7 @@
 
 ### ⚡ My Github Stats:
 ![ClassifiedDev's github stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=daf7dc&bg_color=0c1324)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=22c9e3&bg_color=0c1324)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
