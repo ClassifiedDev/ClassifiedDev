@@ -16,7 +16,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-0C1324?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-0C1324?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-0C1324?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-0C1324?style=flat-square&logo=MySQL&logoColor=ffffff)]
+![MySQL](https://img.shields.io/badge/-MySQL-0C1324?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0C1324?style=flat-square&logo=mongodb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0C1324?style=flat-square&logo=google-cloud)
 ![OVH](https://img.shields.io/badge/-OVH-0C1324?style=flat-square&logo=ovh)
