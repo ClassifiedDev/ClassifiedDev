@@ -28,6 +28,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-blue?style=flat-square&logo=Ubuntu&logoColor=262577)](https://www.ubuntu.com/)
 [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/IntelliJ/)
+[![Termius](https://img.shields.io/badge/SSH-Termius-yellow?style=flat-square&logo=Termius)](https://termius.com/)
 
 
 
