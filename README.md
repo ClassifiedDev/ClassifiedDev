@@ -1,4 +1,4 @@
-# Hi there 👋 ![Visits Badge](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)]
+# Hello there! 👋 ![Visits Badge](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)
 
 ### 🤵 About Me:
 - 🏦 I'm currently a Computer Science student in college. 
