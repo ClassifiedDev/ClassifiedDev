@@ -1,15 +1,15 @@
 # Hello there! 👋 ![Visits Badge](https://badges.pufler.dev/visits/ClassifiedDev/ClassifiedDev)
 
 ### 🤵 About Me:
-- 🏦 I'm currently a Computer Science student in college. 
+- 🏦 I'm currently a college student studying Computer Science. 
 - 🔭 I use daily ```.java```,``` .html```, ```.sql```
 - 📓 I’m currently studying for the CompTIA Security+ exam.
-- 📫 How to reach me: Message me on Discord. [Classified#0001]
-- 💬 Talk to me about computers, gaming, and space.
+- 📫 How to reach me: Message me on Discord: Classified#0001
+- 💬 Talk to me about computers, technology, gaming, and space.
 
 ### 📄 My GitHub Stats:
 ![ClassifiedDev's GitGub Stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=22c9e3&bg_color=0c1324)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=f75cff&bg_color=0c1324)
 
 ### 📡 Technology Stack
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=white)
