@@ -11,7 +11,7 @@
 ![ClassifiedDev's github stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassifiedDev&layout=compact&text_color=22c9e3&bg_color=0c1324)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⚡ Technologies
+### 📡 Technologies
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-0C1324?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-0C1324?style=flat-square&logo=html5&logoColor=white)
