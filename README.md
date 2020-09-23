@@ -22,7 +22,8 @@
 ![OVH](https://img.shields.io/badge/-OVH-0C1324?style=flat-square&logo=ovh)
 ![Git](https://img.shields.io/badge/-Git-0C1324?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github)
-![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=maven)
+![Maven](https://img.shields.io/badge/-Maven-0C1324?style=flat-square&logo=apache-maven)
+![Apache](https://img.shields.io/badge/-Apache-0C1324?style=flat-square&logo=apache)
 
 ## 💻 Operating System & Tools
 [![Windows](https://img.shields.io/badge/Windows-10-4197d1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)
