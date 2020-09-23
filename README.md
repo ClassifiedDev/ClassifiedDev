@@ -30,3 +30,4 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-262577?style=flat-square&logo=ubuntu&logoColor=262577)](https://www.ubuntu.com/)
 [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/IntelliJ/)
 [![Termius](https://img.shields.io/badge/SSH%20Client-Termius-131933?style=flat-square&logo=ssh)](https://termius.com/)
+[![MobaXterm](https://img.shields.io/badge/SSH%20Client-MobaXterm-131933?style=flat-square&logo=MobaXterm)](https://mobaxterm.mobatek.net/)
