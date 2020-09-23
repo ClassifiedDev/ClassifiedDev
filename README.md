@@ -29,6 +29,6 @@
 [![Windows](https://img.shields.io/badge/Windows-10-4197d1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)
 [![macOS](https://img.shields.io/badge/macOS-Catalina-f370ff?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-262577?style=flat-square&logo=ubuntu&logoColor=262577)](https://www.ubuntu.com/)
-[![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/IntelliJ/)
+[![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/idea/)
 [![Termius](https://img.shields.io/badge/SSH%20Client-Termius-131933?style=flat-square&logo=ssh)](https://termius.com/)
 [![MobaXterm](https://img.shields.io/badge/SSH%20Client-MobaXterm-131933?style=flat-square&logo=MobaXterm)](https://mobaxterm.mobatek.net/)
