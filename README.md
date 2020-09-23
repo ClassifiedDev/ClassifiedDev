@@ -31,5 +31,5 @@
 [![Linux](https://img.shields.io/badge/Linux-KDE%20neon-1BB69F?style=flat-square&logo=linux&logoColor=ffffff&labelColor=0C1324)](https://neon.kde.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-262577?style=flat-square&logo=ubuntu&logoColor=ffffff&labelColor=0C1324)](https://www.ubuntu.com/)
 [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&logo=JetBrains&logoColor=ffffff&labelColor=0C1324)](https://www.jetbrains.com/idea/)
-[![Termius](https://img.shields.io/badge/SSH%20Client-Termius-131933?style=flat-square&logo=ssh&logoColor=ffffff&labelColor=0C1324)](https://termius.com/)
-[![MobaXterm](https://img.shields.io/badge/SSH%20Client-MobaXterm-131933?style=flat-square&logo=MobaXterm&logoColor=ffffff&labelColor=0C1324)](https://mobaxterm.mobatek.net/)
+[![Termius](https://img.shields.io/badge/SSH%20Client-Termius-153575?style=flat-square&logo=ssh&logoColor=ffffff&labelColor=0C1324)](https://termius.com/)
+[![MobaXterm](https://img.shields.io/badge/SSH%20Client-MobaXterm-153575?style=flat-square&logo=MobaXterm&logoColor=ffffff&labelColor=0C1324)](https://mobaxterm.mobatek.net/)
