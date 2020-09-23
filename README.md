@@ -29,4 +29,4 @@
 [![macOS](https://img.shields.io/badge/macOS-Catalina-f370ff?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-262577?style=flat-square&logo=ubuntu&logoColor=262577)](https://www.ubuntu.com/)
 [![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/IntelliJ/)
-[![Termius](https://img.shields.io/badge/SSH-Termius-131933?style=flat-square&logo=ssh)](https://termius.com/)
+[![Termius](https://img.shields.io/badge/SSH Client-Termius-131933?style=flat-square&logo=ssh)](https://termius.com/)
