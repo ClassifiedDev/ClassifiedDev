@@ -26,10 +26,10 @@
 ![Apache](https://img.shields.io/badge/-Apache-0C1324?style=flat-square&logo=apache)
 
 ## 💻 Operating System & Tools
-[![Windows](https://img.shields.io/badge/Windows-10-4197d1?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com)
-[![macOS](https://img.shields.io/badge/macOS-Catalina-f370ff?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![Linux](https://img.shields.io/badge/Linux-KDE%20neon-1BB69F?style=flat-square&logo=linux&logoColor=ffffff)](https://neon.kde.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-262577?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.ubuntu.com/)
-[![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/idea/)
-[![Termius](https://img.shields.io/badge/SSH%20Client-Termius-131933?style=flat-square&logo=ssh)](https://termius.com/)
-[![MobaXterm](https://img.shields.io/badge/SSH%20Client-MobaXterm-131933?style=flat-square&logo=MobaXterm)](https://mobaxterm.mobatek.net/)
+[![Windows](https://img.shields.io/badge/Windows-10-4197d1?style=flat-square&logo=windows&logoColor=ffffff&labelColor=0C1324)](https://www.microsoft.com)
+[![macOS](https://img.shields.io/badge/macOS-Catalina-f370ff?style=flat-square&logo=apple&logoColor=ffffff&labelColor=0C1324)](https://www.apple.com/macos/mojave/)
+[![Linux](https://img.shields.io/badge/Linux-KDE%20neon-1BB69F?style=flat-square&logo=linux&logoColor=ffffff&labelColor=0C1324)](https://neon.kde.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-262577?style=flat-square&logo=ubuntu&logoColor=ffffff&labelColor=0C1324)](https://www.ubuntu.com/)
+[![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ-FF3B4C?style=flat-square&logo=JetBrains&logoColor=ffffff&labelColor=0C1324)](https://www.jetbrains.com/idea/)
+[![Termius](https://img.shields.io/badge/SSH%20Client-Termius-131933?style=flat-square&logo=ssh&logoColor=ffffff&labelColor=0C1324)](https://termius.com/)
+[![MobaXterm](https://img.shields.io/badge/SSH%20Client-MobaXterm-131933?style=flat-square&logo=MobaXterm&logoColor=ffffff&labelColor=0C1324)](https://mobaxterm.mobatek.net/)
