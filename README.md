@@ -4,7 +4,7 @@
 - 🏦 I'm currently a college student studying Computer Science. 
 - 🔭 I use daily ```.java```,``` .html```, ```.sql```
 - 📓 I’m currently studying for the CompTIA Security+ exam.
-- 📫 How to reach me: Message me on Discord: Classified#0001
+- 📫 How to reach me, message me on Discord: Classified#0001
 - 💬 Talk to me about computers, technology, gaming, and space.
 
 ### 📄 My GitHub Stats:
