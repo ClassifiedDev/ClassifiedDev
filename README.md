@@ -3,9 +3,8 @@
 ### 🤵 About Me:
 - 🏦 I'm currently a college student studying Computer Science. 
 - 🔭 I use daily ```.java```,``` .html```, ```.sql```
-- 📓 I’m currently studying for the CompTIA Security+ exam.
 - 📫 How to reach me, message me on Discord: Classified#0001
-- 💬 Talk to me about computers, technology, gaming, and space.
+- 💬 Talk to me about computers, technology, gaming, and photography.
 
 ### 📄 My GitHub Stats:
 ![ClassifiedDev's GitGub Stats](https://github-readme-stats.vercel.app/api?username=ClassifiedDev&show_icons=true&title_color=22c9e3&icon_color=f75cff&text_color=daf7dc&bg_color=0c1324)
