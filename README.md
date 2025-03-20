@@ -3,7 +3,7 @@
 ### 🤵 About Me:
 - 🏦 I'm currently a college student studying Computer Science. 
 - 🔭 I use daily ```.java```,``` .html```, ```.sql```
-- 📫 How to reach me, message me on Discord: Classified#0001
+- 📫 How to reach me, message me on Discord: classified
 - 💬 Talk to me about computers, technology, gaming, and photography.
 
 ### 📄 My GitHub Stats:
